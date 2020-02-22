@@ -1,6 +1,8 @@
 # Pin-Maps
 A react-graphQL project to pin the locations at real-time.
 
+Hosted Project: https://pinmaps.now.sh
+
 🛠 Tools Used
 
 - React
